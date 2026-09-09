@@ -1,0 +1,16 @@
+.logo {
+  padding: 16px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.logo h2 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.ant-layout-sider-collapsed .logo h2 {
+  font-size: 14px;
+}
